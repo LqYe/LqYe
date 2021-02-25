@@ -1,6 +1,6 @@
 ### About
 
-🧲 &nbsp;&nbsp;I am a machine learning practitioner with interests in Artificial Intelligence, Deep Learning, Machine Learning, Reinforcement Learning, Robotics, Computer Vision and Natural Language Processing.
+🧲 &nbsp;&nbsp;I am a machine learning practitioner with interests in Artificial Intelligence, Interdisciplinary Research & Applications, Deep Learning, Reinforcement Learning, Robotics, Computer Vision and Natural Language Processing.
 
 🎯 &nbsp;&nbsp;My personal mission is to build AI-based solutions that solve high-impact problems for people around the globe and simplify everyday living.
 
